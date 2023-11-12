@@ -1,5 +1,5 @@
 # Car detection based on Monodepth v2 and detectron v2
-
+We merge this tweo to do car distance detection
 ## Monodepth v2
 This is the reference PyTorch implementation for training and testing depth estimation models using the method described in
 
@@ -47,8 +47,12 @@ It supports a number of computer vision research projects and production applica
 </div>
 <br>
 
-## Learn More about Detectron2
+Learn More about Detectron2
 
 Explain Like I’m 5: Detectron2            |  Using Machine Learning with Detectron2
 :-------------------------:|:-------------------------:
 [![Explain Like I’m 5: Detectron2](https://img.youtube.com/vi/1oq1Ye7dFqc/0.jpg)](https://www.youtube.com/watch?v=1oq1Ye7dFqc)  |  [![Using Machine Learning with Detectron2](https://img.youtube.com/vi/eUSgtfK4ivk/0.jpg)](https://www.youtube.com/watch?v=eUSgtfK4ivk)
+
+
+### Example of our project
+The input image is shown in assets/test_image.jpg. ![test_image](https://github.com/zhang373/car_distance_detection/blob/master/assets/test_image.jpg "test_image")
