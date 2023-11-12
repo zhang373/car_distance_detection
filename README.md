@@ -56,9 +56,9 @@ Explain Like I’m 5: Detectron2            |  Using Machine Learning with Detec
 
 ## Example of our project
 The input image is shown in assets/test_image.jpg              
-![image](/assets/test_image.jpg "input_image")
+![image](/assets/test_image.jpg "input_image")            
 The output image is shown in assets/test_car_dis.png                   
-![image](assets/test_car_dis.png "output_image")
+![image](assets/test_car_dis.png "output_image")              
 
 ## To use it
 You need to install mono emvironment by using provided environment: mono2.yml or mono2.yaml by using:              
