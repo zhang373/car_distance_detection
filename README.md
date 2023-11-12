@@ -69,3 +69,4 @@ You can run thie code in bush to get the test results:
 ```python
 python dm.py
 ```
+You can adjust the *line 130* in dm.py to change what class of object that you want to detect, the *line 115* to change the distance variance and the *line 33* to change the pretrained model that you are using in our project.
