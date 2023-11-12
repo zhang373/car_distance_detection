@@ -55,17 +55,17 @@ Explain Like I’m 5: Detectron2            |  Using Machine Learning with Detec
 
 
 ## Example of our project
-The input image is shown in assets/test_image.jpg
+The input image is shown in assets/test_image.jpg              
 ![image](/assets/test_image.jpg "input_image")
-The output image is shown in assets/test_car_dis.png
+The output image is shown in assets/test_car_dis.png                   
 ![image](assets/test_car_dis.png "output_image")
 
 ## To use it
-You need to install mono emvironment by using provided environment: mono2.yml or mono2.yaml by using:
+You need to install mono emvironment by using provided environment: mono2.yml or mono2.yaml by using:              
 ```python
-conda env create -f mono2.yml
+conda env create -f mono2.yml or conda env create -f mono2.yaml
 ```
-or 
+You can run thie code in bush to get the test results:     
 ```python
-conda env create -f mono2.yaml
+python dm.py
 ```
